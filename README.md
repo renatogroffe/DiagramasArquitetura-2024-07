@@ -25,3 +25,7 @@ sequenceDiagram
     AzureADB2C-->>-Aplicativo: Redireciona com token de autenticação
     Aplicativo-->>Usuário: Acesso concedido
 ```
+
+## Componentes utilizados (draw.io)
+
+![alt](docs/mfa-components.svg)
